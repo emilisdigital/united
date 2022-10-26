@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <div>developer/popup new branch commit 1</div>
+      <div>developer/popup new branch commit 2</div>
     </div>
   );
 }
